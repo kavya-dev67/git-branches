@@ -5,6 +5,6 @@ if num % 2 == 0:
 else:
     print("Odd number")
 elif:
-    print("hi hello")
+    print("hi github")
     print("this is github")
     print("me")
