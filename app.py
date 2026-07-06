@@ -6,5 +6,5 @@ else:
     print("Odd number")
 elif:
     print("hi hello")
-    print("kavya")
+    print("this is github")
     print("me")
